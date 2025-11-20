@@ -184,6 +184,4 @@ La API retorna códigos HTTP estándar:
 **Juan Pablo Gallardo Rojas**
 Diseño de Software - 4to Semestre
 
-## Repositorio
 
-[https://github.com/juangallardo19/ApiSpting](https://github.com/juangallardo19/ApiSpting)
