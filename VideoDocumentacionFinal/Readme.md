@@ -2,7 +2,7 @@
 
 ## Acceso al Video
 
-**Link al video en Google Drive:**
+**Link al video:**
 
 [VER VIDEO EN YOUTUBE](AQUI_TU_LINK_DE_GOOGLE_DRIVE)
 
@@ -162,3 +162,4 @@ Este video está diseñado para:
 ---
 
 **Nota**: Recuerda que todo lo explicado en este video está documentado detalladamente en la wiki del proyecto para que puedas consultarlo en cualquier momento.
+
