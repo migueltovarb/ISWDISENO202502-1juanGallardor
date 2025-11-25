@@ -159,7 +159,5 @@ Este video está diseñado para:
 |-------|---------|---------|
 | 2025-11-25 | 1.0 | Video inicial con demostración completa |
 
----
 
-**Nota**: Recuerda que todo lo explicado en este video está documentado detalladamente en la wiki del proyecto para que puedas consultarlo en cualquier momento.
 
