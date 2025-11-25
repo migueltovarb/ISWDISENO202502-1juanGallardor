@@ -4,7 +4,7 @@
 
 **Link al video:**
 
-[VER VIDEO EN YOUTUBE](AQUI_TU_LINK_DE_GOOGLE_DRIVE)
+[VER VIDEO EN YOUTUBE](https://youtu.be/lg1ME7yxbJM)
 
 ---
 
@@ -158,6 +158,7 @@ Este video está diseñado para:
 | Fecha | Versión | Cambios |
 |-------|---------|---------|
 | 2025-11-25 | 1.0 | Video inicial con demostración completa |
+
 
 
 
